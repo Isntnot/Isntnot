@@ -1,5 +1,10 @@
-## Hi there 👋
+## Who am i?
+My name is Thierry Fernando, i am a Junior Developer, with experience with machine learning, web development.
 
+## On going project
+
+### Synpy
+....
 <!--
 **Isntnot/Isntnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
