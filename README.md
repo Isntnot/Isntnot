@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thierry Fernando  
 
 I'm a high school student in Administration with a strong interest in **programming**, **automation**, and **system design**.  
-I enjoy building tools that connect technology, psychology, and productivity — from **habit systems** to **Arduino projects**.
+I enjoy building tools that connect technology, psychology, and productivity, from **habit systems** to **Arduino projects**.
 
 ---
 
@@ -25,7 +25,7 @@ I enjoy building tools that connect technology, psychology, and productivity —
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**Arduino Steering Wheel**](#) | Custom racing wheel using Arduino Uno and pyautogui integration. | C++, Python |
-| [**Game Master**](#) | Traning of neural network with images to imitate a player behaviour | Python, TensorFlow, Pillow |
+| [**Game Master**](#https://github.com/Isntnot/GameMaster) | Traning of neural network with images to imitate a player behaviour | Python, TensorFlow, Pillow |
 ---
 
 ### Contact  
