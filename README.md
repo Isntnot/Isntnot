@@ -38,7 +38,7 @@ I enjoy building tools that connect technology, psychology, and productivity, fr
 #### My stats
 ![Thierry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isntnot&show_icons=true&theme=transparent)
 #### Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryFernando&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isntnot&layout=compact&theme=transparent)
 
 > _"Build systems that build you."_  
 > — T.F.
