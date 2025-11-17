@@ -25,7 +25,7 @@ I enjoy building tools that connect technology, psychology, and productivity, fr
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**Arduino Steering Wheel**](#) | Custom racing wheel using Arduino Uno and pyautogui integration. | C++, Python |
-| [**Game Master**](#https://github.com/Isntnot/GameMaster) | Traning of neural network with images to imitate a player behaviour | Python, TensorFlow, Pillow |
+| [**Game Master**](https://github.com/Isntnot/GameMaster) | Traning of neural network with images to imitate a player behaviour | Python, TensorFlow, Pillow |
 ---
 
 ### Contact  
